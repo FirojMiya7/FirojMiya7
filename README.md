@@ -117,7 +117,7 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 
 
-## 📊 Recent GitHub Activity
+<!-- ## 📊 Recent GitHub Activity -->
 
 <div align="center">
 
@@ -251,7 +251,7 @@ Fourth project showcasing different skills. What impact did it have?
 ## 📊 GitHub Activity
 
 <!--START_SECTION:activity-->
-*This section will be updated automatically if you set up GitHub Actions*
+*This section will be updated automatically*
 <!--END_SECTION:activity-->
 
 **Recent Highlights:**
