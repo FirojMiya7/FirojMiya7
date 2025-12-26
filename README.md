@@ -154,8 +154,13 @@ Fourth project showcasing different skills. What impact did it have?
 ---
 
 # 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://nirzak-streak-stats.vercel.app/?user=FirojMiya7&theme=TokyoNight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FirojMiya7&theme=TokyoNight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 
