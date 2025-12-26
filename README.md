@@ -165,7 +165,7 @@ Fourth project showcasing different skills. What impact did it have?
 <div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanstha09&label=Profile%20views&color=0e75b6&style=flat" alt="FirojMiya7" />
+  <img src="https://komarev.com/ghpvc/?username=FirojMiya7&label=Profile%20views&color=0e75b6&style=flat" alt="FirojMiya7" />
 </p>
 
 </div>
