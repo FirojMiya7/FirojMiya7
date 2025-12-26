@@ -176,7 +176,7 @@ Fourth project showcasing different skills. What impact did it have?
 
 ## 💭 Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyoNight&quotes="Good decisions come from experience. Experience comes from bad decisions. – Mark Twain")
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyoNight&quotes="Good decisions come from experience. Experience comes from bad decisions. – Mark Twain")
 
 
 </div>
