@@ -308,10 +308,10 @@ Fourth project showcasing different skills. What impact did it have?
 *[I relish building engaging apps, diving into captivating games, and evaluating the latest tech innovations from time to time.]*
 
 ---
-
+<!-- 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**⭐ From [FirojMiya7](https://github.com/FirojMiya7)**
+**⭐ From [FirojMiya7](https://github.com/FirojMiya7)** -->
 
 </div>
 
