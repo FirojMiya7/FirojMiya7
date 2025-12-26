@@ -311,7 +311,7 @@ Fourth project showcasing different skills. What impact did it have?
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**⭐ From [YourUsername](https://github.com/yourusername)**
+**⭐ From [FirojMiya7](https://github.com/FirojMiya7)**
 
 </div>
 
