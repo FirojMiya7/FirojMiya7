@@ -169,7 +169,7 @@ Fourth project showcasing different skills. What impact did it have?
 </div>
 
 <div align="center">
-![Pacman](https://github-profile-pacman.vercel.app/api?username=YOUR_USERNAME&theme=dark)
+![](https://github-profile-pacman.vercel.app/api?username=YOUR_USERNAME&theme=dark)
 </div>
 
 ---
