@@ -168,9 +168,21 @@ Fourth project showcasing different skills. What impact did it have?
 </p>
 </div>
 
+---
 
-[![](https://github-readme-stats.vercel.app/api?username=FirojMiya7)](https://github.com/FirojMiya7/github-readme-stats)
+## 🎮 Watch my contributions get devoured!
+  
+</div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirojMiya7/FirojMiya7/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirojMiya7/FirojMiya7/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirojMiya7/FirojMiya7/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+</div>
 
 ---
 
