@@ -176,7 +176,7 @@ Fourth project showcasing different skills. What impact did it have?
 
 ## 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=TokyoNight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 </div>
