@@ -307,7 +307,7 @@ Fourth project showcasing different skills. What impact did it have?
 ### ⚡ Fun Fact
 *[I relish building engaging apps, diving into captivating games, and evaluating the latest tech innovations from time to time.]*
 
----
+<!-- --- -->
 <!-- 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
 
