@@ -119,7 +119,8 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 <div align="center">
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm [Firoj Miya
+]
 
 ### 💻 Developer | 🚀 Builder | 🌟 Open Source Enthusiast
 
@@ -131,7 +132,8 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Firoj Miya
+",
     location: "Your City, Country",
     role: "Full Stack Developer",
     currentFocus: ["Web Development", "Cloud Technologies", "Open Source"],
