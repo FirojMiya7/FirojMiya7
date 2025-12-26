@@ -151,6 +151,11 @@ Fourth project showcasing different skills. What impact did it have?
 - [Tutorial or Guide](https://your-blog.com/post3) -->
 
 <!-- BLOG-POST-LIST:END -->
+---
+
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=FirojMiya7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FirojMiya7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
