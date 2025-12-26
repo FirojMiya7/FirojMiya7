@@ -117,7 +117,7 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 
 
-<!-- ## 📊 Recent GitHub Activity -->
+## 📊 Recent GitHub Activity
 
 <div align="center">
 
@@ -256,18 +256,19 @@ Fourth project showcasing different skills. What impact did it have?
 
 **Recent Highlights:**
 - 🎉 Contributed to [Open Source Project Name]
-- 🚀 Launched [Your Project Name]
+- 🚀 Launched [Soon]
 - 📝 Published [Blog Post / Article] on [Topic]
 - 🏆 Achieved [Milestone / Achievement]
 
 ---
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -- >
 - [Your Latest Blog Post Title](https://your-blog.com/post1)
 - [Another Interesting Article](https://your-blog.com/post2)
-- [Tutorial or Guide](https://your-blog.com/post3)
+- [Tutorial or Guide](https://your-blog.com/post3) -->
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
