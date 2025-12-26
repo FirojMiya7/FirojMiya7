@@ -163,11 +163,13 @@ Fourth project showcasing different skills. What impact did it have?
 </div>
 
 <div align="center">
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FirojMiya7&label=Profile%20views&color=0e75b6&style=flat" alt="FirojMiya7" />
 </p>
+</div>
 
+<div align="center">
+![Pacman](https://github-profile-pacman.vercel.app/api?username=YOUR_USERNAME&theme=dark)
 </div>
 
 ---
