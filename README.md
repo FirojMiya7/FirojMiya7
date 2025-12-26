@@ -162,6 +162,14 @@ Fourth project showcasing different skills. What impact did it have?
 
 </div>
 
+<div align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhanstha09&label=Profile%20views&color=0e75b6&style=flat" alt="aether-cds" />
+</p>
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
