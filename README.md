@@ -168,9 +168,9 @@ Fourth project showcasing different skills. What impact did it have?
 </p>
 </div>
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirojMiya7)](https://github.com/FirojMiya7/github-readme-stats)
-</div>
+
+[![](https://github-readme-stats.vercel.app/api?username=FirojMiya7)](https://github.com/FirojMiya7/github-readme-stats)
+
 
 ---
 
