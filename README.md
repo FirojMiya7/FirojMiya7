@@ -299,13 +299,13 @@ Fourth project showcasing different skills. What impact did it have?
 - [ ] Contribute to 10+ open source projects
 - [ ] Build and launch 3 side projects
 - [ ] Learn a new programming language
-<!-- - [ ] Write 20+ technical articles -->
 - [ ] Mentor junior developers
+<!-- - [ ] Write 20+ technical articles -->
 
 ---
 
 ### ⚡ Fun Fact
-*[Add something interesting or funny about yourself!]*
+*[I relish building engaging apps, diving into captivating games, and evaluating the latest tech innovations from time to time.]*
 
 ---
 
