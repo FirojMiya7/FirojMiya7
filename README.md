@@ -132,9 +132,9 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 ```javascript
 const developer = {
     name: "Firoj Miya",
-    location: "Your City, Country",
+    location: "Butwal-Rupandehi, Nepal",
     role: "Full Stack Developer",
-    currentFocus: ["Web Development", "Cloud Technologies", "Open Source"],
+    currentFocus: ["Web Development", "Mobile Applications", "Open Source"],
     learning: ["AI/ML", "System Design", "DevOps"],
     hobbies: ["Coding", "Reading", "Gaming"],
     motto: "Code. Build. Ship. Repeat."
