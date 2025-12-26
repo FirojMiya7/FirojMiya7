@@ -172,7 +172,7 @@ Fourth project showcasing different skills. What impact did it have?
 
 ### 🎮 Watch my contributions get devoured!
   
-</div>
+</div align="center">
 
 <p align="center">
   <picture>
