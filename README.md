@@ -169,7 +169,7 @@ Fourth project showcasing different skills. What impact did it have?
 </div>
 
 <div align="center">
-![](https://github-profile-pacman.vercel.app/api?username=FirojMiya7&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirojMiya7)](https://github.com/FirojMiya7/github-readme-stats)
 </div>
 
 ---
