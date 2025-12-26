@@ -1,7 +1,7 @@
 # FirojMiya7
 
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Firoj Miya] 👋
 
 <div align="center">
   
@@ -39,11 +39,13 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirojMiya7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FirojMiya7
+&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FirojMiya7
+&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -51,7 +53,8 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=FirojMiya7
+&theme=tokyonight&no-frame=true&row=1&column=6)
   
 </div>
 
@@ -59,7 +62,8 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FirojMiya7
+&theme=tokyo-night&hide_border=true)
   
 </div>
 
@@ -67,8 +71,12 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=FirojMiya7
+&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/FirojMiya7
+/REPO_NAME)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=FirojMiya7
+&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/FirojMiya7
+/REPO_NAME)
 
 </div>
 
@@ -87,7 +95,8 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 <div align="center">
   
-  [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_USERNAME)
+  [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/FirojMiya7
+)
   
 </div>
 
@@ -95,7 +104,8 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=FirojMiya7
+&color=blueviolet&style=for-the-badge)
   
   **Thanks for visiting! 😊**
   
