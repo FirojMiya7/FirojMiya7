@@ -3,13 +3,7 @@
 # 👋 Hey, I'm [Firoj Miya]
 
 ### 💻 Developer | 🚀 Builder | 🌟 Open Source Enthusiast
-
-<!-- </div>
-
-
-
-<div align="center"> -->
-  
+ 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)
   
 </div>
