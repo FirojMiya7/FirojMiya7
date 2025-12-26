@@ -141,10 +141,15 @@ const developer = {
 };
 ```
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technologies you're learning]**
-- 💼 Open to collaborate on **innovative projects**
-- 📧 Reach me: **your.email@example.com**
+- 🔭 Currently working on **[Mobile Application Development]**
+- 🌱 Learning **[React Native | Node.js | Django]**
+- 💼 Open to collaborate on:
+    • Beginner-friendly open-source projects
+    • Learning-based collaborations
+    • DSA & algorithm implementations
+    • College / academic projects
+- 🎓 I am a **BSc. CSIT Student**
+- 📧 Reach me: **firojali723@gmail.com**
 
 ---
 
