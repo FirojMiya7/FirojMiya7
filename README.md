@@ -117,6 +117,8 @@ I'm a passionate developer who loves building things and solving problems. I'm c
 
 
 
+## 📊 Recent GitHub Activity
+
 <div align="center">
 
 # 👋 Hey, I'm [Firoj Miya]
@@ -186,11 +188,11 @@ const developer = {
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)        Container run garney tool -->
-<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)        Thousands of containers manage garne tool  -->
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)        Container run garney tool -->
+<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)        Thousands of containers manage garne tool  -->
 
 ---
 
