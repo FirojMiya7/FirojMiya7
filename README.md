@@ -295,11 +295,11 @@ Fourth project showcasing different skills. What impact did it have?
 
 <div align="center">
 
-### 🎯 2024 Goals
+### 🎯 2026 Goals
 - [ ] Contribute to 10+ open source projects
 - [ ] Build and launch 3 side projects
 - [ ] Learn a new programming language
-- [ ] Write 20+ technical articles
+<!-- - [ ] Write 20+ technical articles -->
 - [ ] Mentor junior developers
 
 ---
