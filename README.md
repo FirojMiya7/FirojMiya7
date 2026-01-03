@@ -85,7 +85,7 @@ const aboutMe = {
 <td width="50%">
 
 ### 🎨 Project One
-**[English Dictionary](https://github.com/FirojMiya7/project1)**
+**[English Dictionary](https://github.com/FirojMiya7/pythonLearning/blob/main/Basics/Exercise/tuts11Dictionary.py)**
 
 Description of your amazing project. What problem does it solve? What technologies did you use?
 
