@@ -85,9 +85,10 @@ const aboutMe = {
 <td width="50%">
 
 ### 🎨 Project One
-**[English Dictionary](https://github.com/FirojMiya7/pythonLearning/blob/main/Basics/Exercise/tuts11Dictionary.py)**
+**[English Dictionary(Python)](https://github.com/FirojMiya7/pythonLearning/blob/main/Basics/Exercise/tuts11Dictionary.py)**
 
-Description of your amazing project. What problem does it solve? What technologies did you use?
+A simple command-line English Dictionary that helps users quickly find word meanings.
+Built to strengthen core Python concepts like dictionaries, loops, and user input handling.
 
 `Tech Stack: Python`
 
