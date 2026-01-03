@@ -133,10 +133,6 @@ Fourth project showcasing different skills. What impact did it have?
 
 ## 📊 GitHub Activity
 
-<!--START_SECTION:activity-->
-*This section will be updated automatically*
-<!--END_SECTION:activity-->
-
 **Recent Highlights:**
 - 🎉 Contributed to [Open Source Project Name]
 - 🚀 Launched [Soon]
