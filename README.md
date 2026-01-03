@@ -85,11 +85,11 @@ const aboutMe = {
 <td width="50%">
 
 ### 🎨 Project One
-**[Project Name](https://github.com/yourusername/project1)**
+**[English Dictionary](https://github.com/FirojMiya7/project1)**
 
 Description of your amazing project. What problem does it solve? What technologies did you use?
 
-`Tech Stack: React, Node.js, MongoDB`
+`Tech Stack: Python`
 
 </td>
 <td width="50%">
