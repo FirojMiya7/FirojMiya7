@@ -223,7 +223,7 @@ Fourth project showcasing different skills. What impact did it have?
 ---
 
 ### ⚡ Fun Fact
-*[I relish building engaging apps, diving into captivating games, and evaluating the latest tech innovations from time to time.]*
+*[I love building cool apps, playing fun games, and keeping up with the latest tech trends.]*
 
 <!-- --- -->
 <!-- 
